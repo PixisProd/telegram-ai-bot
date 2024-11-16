@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "aiogram3-gpt-bot"
+version = "0.1.0"
+description = ""
+authors = ["Jahongir <crazyout4@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+fastapi = "^0.115.4"
+uvicorn = "^0.32.0"
+aiogram = "^3.14.0"
+openai = "^1.54.3"
+sqlalchemy = "^2.0.36"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
