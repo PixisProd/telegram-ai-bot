@@ -66,4 +66,4 @@ After all this, your bot is ready to work.
 
 Feel free to contribute to the project by reporting issues, suggesting features, or submitting pull requests. Your feedback and contributions are always welcome!
 
-_Good weather to you! 🎉_
+_Enjoy the conversation! 🎉_
